@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 - [KAIR](https://github.com/cszn/KAIR)
 - [USRNet](https://github.com/cszn/USRNet)
+- [DPIR](https://github.com/cszn/DPIR)
 - [IRCNN](https://github.com/cszn/IRCNN)
 - [SRMD](https://github.com/cszn/SRMD)
 - [DPSR](https://github.com/cszn/DPSR)
