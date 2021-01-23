@@ -3,7 +3,6 @@
 
 I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, Switzerland.
 
-------------
 
 <!--
 **cszn/cszn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
