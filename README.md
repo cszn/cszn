@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 -->
 
 
-🌱 News🌱 
-- [BSRNet](https://github.com/cszn/BSRNet) for blind image super-resolution is coming.
+🌱 **News**🌱 
+- **[BSRNet](https://github.com/cszn/BSRNet) for blind image super-resolution is coming!**
 
 ------------
 
-- [KAIR](https://github.com/cszn/KAIR)
-- [USRNet](https://github.com/cszn/USRNet)
-- [DPIR](https://github.com/cszn/DPIR)
-- [IRCNN](https://github.com/cszn/IRCNN)
-- [SRMD](https://github.com/cszn/SRMD)
-- [DPSR](https://github.com/cszn/DPSR)
-- [DnCNN](https://github.com/cszn/DnCNN)
-- [FFDNet](https://github.com/cszn/FFDNet)
+- **[KAIR](https://github.com/cszn/KAIR)**
+- **[USRNet](https://github.com/cszn/USRNet)**
+- **[DPIR](https://github.com/cszn/DPIR)**
+- **[IRCNN](https://github.com/cszn/IRCNN)**
+- **[SRMD](https://github.com/cszn/SRMD)**
+- **[DPSR](https://github.com/cszn/DPSR)**
+- **[DnCNN](https://github.com/cszn/DnCNN)**
+- **[FFDNet](https://github.com/cszn/FFDNet)**
