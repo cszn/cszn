@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 - **[FFDNet](https://github.com/cszn/FFDNet)**
 
 
-| ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=KAIR&cache_seconds=86400&theme=default) | ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) | 
+| ![https://github.com/cszn/KAIR](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=KAIR&cache_seconds=86400&theme=default) | ![https://github.com/cszn/KAIR](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) | 
 | :--: | :--: |
-| ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=USRNet&cache_seconds=86400&theme=default) | ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=DPIR&cache_seconds=86400&theme=default) | 
-| ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=IRCNN&cache_seconds=86400&theme=default) | ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=SRMD&cache_seconds=86400&theme=default) | 
-| ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=DnCNN&cache_seconds=86400&theme=default) | ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=FFDNet&cache_seconds=86400&theme=default) | 
+| ![https://github.com/cszn/KAIR](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=USRNet&cache_seconds=86400&theme=default) | ![https://github.com/cszn/KAIR](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=DPIR&cache_seconds=86400&theme=default) | 
+| ![https://github.com/cszn/KAIR](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=IRCNN&cache_seconds=86400&theme=default) | ![https://github.com/cszn/KAIR](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=SRMD&cache_seconds=86400&theme=default) | 
+| ![https://github.com/cszn/KAIR](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=DnCNN&cache_seconds=86400&theme=default) | ![https://github.com/cszn/KAIR](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=FFDNet&cache_seconds=86400&theme=default) | 
 
 
 
