@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 - **[FFDNet](https://github.com/cszn/FFDNet)**
 
 
-| ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) | ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) | ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) |
-| :--: | :--: | :--: |
-| ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) | ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) | ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) |
+| ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) | ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) | 
+| :--: | :--: |
+| ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) | ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) | 
 
 
 
