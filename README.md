@@ -35,6 +35,15 @@ Here are some ideas to get you started:
 - **[DnCNN](https://github.com/cszn/DnCNN)**
 - **[FFDNet](https://github.com/cszn/FFDNet)**
 
+
+| ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) | ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) | ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) |
+| :--: | :--: | :--: |
+| ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) | ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) | ![](https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=86400&theme=default) |
+
+
+
+
+
 ![cszn's github stats](https://github-readme-stats.vercel.app/api?username=cszn&show_icons=false&count_private=true&hide=contribs,issues,prs&layout=compact)
 
 
