@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 -->
 
 
-|<a href="https://github.com/cszn/KAIR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=KAIR&cache_seconds=10&theme=default" alt="" /></a>|<a href="https://github.com/cszn/BSRNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=10&theme=buefy" alt=""/></a>|
+|<a href="https://github.com/cszn/KAIR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=KAIR&cache_seconds=10&theme=default" alt="" /></a>|<a href="https://github.com/cszn/BSRNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=10&theme=solarized-light" alt=""/></a>|
 |:--:|:--:|
 | <a href="https://github.com/cszn/USRNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=USRNet&cache_seconds=10&theme=default" alt=""  /></a>| <a href="https://github.com/cszn/DPIR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=DPIR&cache_seconds=10&theme=default" alt=""  /></a>|
 | <a href="https://github.com/cszn/IRCNN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=IRCNN&cache_seconds=10&theme=default" alt=""  /></a>| <a href="https://github.com/cszn/SRMD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=SRMD&cache_seconds=10&theme=default" alt=""  /></a>|
