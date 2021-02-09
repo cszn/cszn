@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 | <a href="https://github.com/cszn/DnCNN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=DnCNN&cache_seconds=10&theme=default" alt=""  /></a>| <a href="https://github.com/cszn/FFDNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=FFDNet&cache_seconds=10&theme=default" alt="" /></a>|
 
 
-
+![](https://github-readme-stats.vercel.app/api?username=cszn&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default)
 
 
 
