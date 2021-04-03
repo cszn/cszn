@@ -19,14 +19,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-------------
+## ⚡  **News**
+_**We released the testing code of [BSRGAN](https://github.com/cszn/BSRGAN)!**_
 
-🌱 **News**🌱 : _**We released the testing code of [BSRGAN](https://github.com/cszn/BSRGAN)!**_
-
-------------
-
+## 🌱 **My Repositories**
 |**[KAIR](https://github.com/cszn/KAIR)**|**[USRNet](https://github.com/cszn/USRNet)**|**[DPIR](https://github.com/cszn/DPIR)**|**[IRCNN](https://github.com/cszn/IRCNN)**|**[SRMD](https://github.com/cszn/SRMD)**|**[DPSR](https://github.com/cszn/DPSR)**|**[DnCNN](https://github.com/cszn/DnCNN)**|**[FFDNet](https://github.com/cszn/FFDNet)**|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+The pytorch training and testing codes of SRMD, DnCNN, FFDNet can be found in **[KAIR](https://github.com/cszn/KAIR)**.
+
 
 <!--
 - **[KAIR](https://github.com/cszn/KAIR)**
