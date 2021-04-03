@@ -1,7 +1,7 @@
-### Kai Zhang
-**[[Homepage](https://cszn.github.io/)] [[Google Scholar](https://scholar.google.com.hk/citations?user=0RycFIIAAAAJ)]**
+## Kai Zhang
+_**[[Homepage](https://cszn.github.io/)] [[Google Scholar](https://scholar.google.com.hk/citations?user=0RycFIIAAAAJ)]**_
 
-**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, Switzerland.**
+_**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, Switzerland.**_
 
 
 <!--
@@ -26,7 +26,7 @@ _**We released the testing code of [BSRGAN](https://github.com/cszn/BSRGAN)!**_
 |**[KAIR](https://github.com/cszn/KAIR)**|**[USRNet](https://github.com/cszn/USRNet)**|**[DPIR](https://github.com/cszn/DPIR)**|**[IRCNN](https://github.com/cszn/IRCNN)**|**[SRMD](https://github.com/cszn/SRMD)**|**[DPSR](https://github.com/cszn/DPSR)**|**[DnCNN](https://github.com/cszn/DnCNN)**|**[FFDNet](https://github.com/cszn/FFDNet)**|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
-The pytorch training and testing codes of SRMD, DnCNN, FFDNet can be found in **[KAIR](https://github.com/cszn/KAIR)**.
+_The pytorch training and testing codes of SRMD, DnCNN, FFDNet can be found in **[KAIR](https://github.com/cszn/KAIR)**._
 
 
 <!--
