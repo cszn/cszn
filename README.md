@@ -21,11 +21,14 @@ Here are some ideas to get you started:
 
 ------------
 
-🌱 **News**🌱 
-- **[BSRGAN](https://github.com/cszn/BSRGAN) for blind image super-resolution is coming!**
+🌱 **News**🌱 : _**We released the testing code of [BSRGAN](https://github.com/cszn/BSRGAN)!**_
 
 ------------
 
+|**[KAIR](https://github.com/cszn/KAIR)**|**[USRNet](https://github.com/cszn/USRNet)**|**[DPIR](https://github.com/cszn/DPIR)**|**[IRCNN](https://github.com/cszn/IRCNN)**|**[SRMD](https://github.com/cszn/SRMD)**|**[DPSR](https://github.com/cszn/DPSR)**|**[DnCNN](https://github.com/cszn/DnCNN)**|**[FFDNet](https://github.com/cszn/FFDNet)**|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+<!--
 - **[KAIR](https://github.com/cszn/KAIR)**
 - **[USRNet](https://github.com/cszn/USRNet)**
 - **[DPIR](https://github.com/cszn/DPIR)**
@@ -34,7 +37,7 @@ Here are some ideas to get you started:
 - **[DPSR](https://github.com/cszn/DPSR)**
 - **[DnCNN](https://github.com/cszn/DnCNN)**
 - **[FFDNet](https://github.com/cszn/FFDNet)**
-
+-->
 
 <!--
 |<a href="https://github.com/cszn/KAIR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=KAIR&cache_seconds=10&theme=buefy" alt="" /></a>|<a href="https://github.com/cszn/BSRNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cszn&repo=BSRNet&cache_seconds=5&theme=solarized-light" alt=""/></a>|
