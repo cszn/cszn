@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 ## ⚡  **News**
 _**We released the testing code of [BSRGAN](https://github.com/cszn/BSRGAN)!**_
 
+[<img src="https://github.com/cszn/BSRGAN/blob/93577f4e8eaaa7c697609d4bb82508a0359e2f66/figs/v1.png" width="256px"/>](https://imgsli.com/NDgzMjU) [<img src="https://github.com/cszn/BSRGAN/blob/93577f4e8eaaa7c697609d4bb82508a0359e2f66/figs/v2.png" width="256px"/>](https://imgsli.com/NDgyNzk) 
+
+
+
 ## 🌱 **My Repositories**
 |**[BSRGAN](https://github.com/cszn/BSRGAN)**|**[KAIR](https://github.com/cszn/KAIR)**|**[USRNet](https://github.com/cszn/USRNet)**|**[DPIR](https://github.com/cszn/DPIR)**|**[IRCNN](https://github.com/cszn/IRCNN)**|**[SRMD](https://github.com/cszn/SRMD)**|**[DPSR](https://github.com/cszn/DPSR)**|**[DnCNN](https://github.com/cszn/DnCNN)**|**[FFDNet](https://github.com/cszn/FFDNet)**|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
