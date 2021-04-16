@@ -1,5 +1,5 @@
 ## Kai Zhang
-_**[[Homepage](https://cszn.github.io/)] [[Google Scholar](https://scholar.google.com.hk/citations?user=0RycFIIAAAAJ)]  [[知乎](https://www.zhihu.com/people/cskaizhang)]**_
+_**[[Homepage](https://cszn.github.io/)] [[Google Scholar](https://scholar.google.com.hk/citations?user=0RycFIIAAAAJ)]  [[ResearchGate](https://www.researchgate.net/profile/Kai-Zhang-44)]  [[知乎](https://www.zhihu.com/people/cskaizhang)]**_
 
 _**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, Switzerland.**_
 
