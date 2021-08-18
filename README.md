@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 -->
 
 ## ⚡  **News**
+_**We released the degradation model code of [BSRGAN](https://github.com/cszn/BSRGAN)!**_
+```python
+from utils import utils_blindsr as blindsr
+img_lq, img_hq = blindsr.degradation_bsrgan_plus(img, sf=4, use_shuffle=True, use_sharp=True, lq_patchsize=64)
+```
+
+## ⚡  **News**
 _**We released the testing code of [BSRGAN](https://github.com/cszn/BSRGAN)!**_
 
 [<img src="https://github.com/cszn/BSRGAN/blob/93577f4e8eaaa7c697609d4bb82508a0359e2f66/figs/v1.png" width="200px"/>](https://imgsli.com/NDgzMjU) [<img src="https://github.com/cszn/BSRGAN/blob/93577f4e8eaaa7c697609d4bb82508a0359e2f66/figs/v2.png" width="200px"/>](https://imgsli.com/NDgyNzk) 
