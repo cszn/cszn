@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ## ⚡  **News**
-_**We released the training code of [BSRGAN](https://github.com/cszn/BSRGAN)!**_
-```python
-from utils import utils_blindsr as blindsr
-img_lq, img_hq = blindsr.degradation_bsrgan(img, sf=4, lq_patchsize=64)
-```
+_**We released the training code of [BSRGAN](https://github.com/cszn/BSRGAN) and [SwinIR](https://github.com/cszn/KAIR/blob/master/docs/README_SwinIR.md)!**_
 
 ## ⚡  **News**
 _**We released the testing code of [BSRGAN](https://github.com/cszn/BSRGAN)!**_
