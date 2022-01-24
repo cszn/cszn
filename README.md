@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## ⚡  **News**: 
+_**Our new work (SCUNet) for practical image denoising.**_
+
+<img src="https://github.com/cszn/KAIR/blob/master/figs/palace.png" height="200px"/> <img src="https://github.com/cszn/KAIR/blob/master/figs/palace_HSCU.png" height="200px"/> 
+
 ## ⚡  **News**
 _**We released the training code of [BSRGAN](https://github.com/cszn/BSRGAN) and [SwinIR](https://github.com/cszn/KAIR/blob/master/docs/README_SwinIR.md)!**_
 
