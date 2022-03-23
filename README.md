@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ## ⚡  **News**: 
-_**Our new work (SCUNet) for practical image denoising.**_
+_**Our new work [SCUNet](https://github.com/cszn/SCUNet) for practical image denoising.**_
 
 <img src="https://github.com/cszn/KAIR/blob/master/figs/palace.png" height="200px"/> <img src="https://github.com/cszn/KAIR/blob/master/figs/palace_HSCU.png" height="200px"/> 
 
@@ -41,8 +41,8 @@ _**I added the awesome face image enhancement method GPEN (CVPR21) into [KAIR](h
 <img src="https://github.com/cszn/KAIR/raw/master/figs/face_13_comparison.png" width="408px"/>
 
 ## 🌱 **My Repositories**
-|**[BSRGAN](https://github.com/cszn/BSRGAN)**|**[KAIR](https://github.com/cszn/KAIR)**|**[USRNet](https://github.com/cszn/USRNet)**|**[DPIR](https://github.com/cszn/DPIR)**|**[IRCNN](https://github.com/cszn/IRCNN)**|**[SRMD](https://github.com/cszn/SRMD)**|**[DPSR](https://github.com/cszn/DPSR)**|**[DnCNN](https://github.com/cszn/DnCNN)**|**[FFDNet](https://github.com/cszn/FFDNet)**|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|**[SCUNet](https://github.com/cszn/SCUNet)**|**[BSRGAN](https://github.com/cszn/BSRGAN)**|**[KAIR](https://github.com/cszn/KAIR)**|**[USRNet](https://github.com/cszn/USRNet)**|**[DPIR](https://github.com/cszn/DPIR)**|**[IRCNN](https://github.com/cszn/IRCNN)**|**[SRMD](https://github.com/cszn/SRMD)**|**[DPSR](https://github.com/cszn/DPSR)**|**[DnCNN](https://github.com/cszn/DnCNN)**|**[FFDNet](https://github.com/cszn/FFDNet)**|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 _The pytorch training and testing codes of SRMD, DnCNN, FFDNet can be found in **[KAIR](https://github.com/cszn/KAIR)**._
 
