@@ -27,9 +27,6 @@ _**Our new work [SCUNet](https://github.com/cszn/SCUNet) for practical image den
 <img src="https://github.com/cszn/KAIR/blob/master/figs/palace.png" height="200px"/> <img src="https://github.com/cszn/KAIR/blob/master/figs/palace_HSCU.png" height="200px"/> 
 
 ## ⚡  **News**
-_**We released the training code of [BSRGAN](https://github.com/cszn/BSRGAN) and [SwinIR](https://github.com/cszn/KAIR/blob/master/docs/README_SwinIR.md)!**_
-
-## ⚡  **News**
 _**We released the testing code of [BSRGAN](https://github.com/cszn/BSRGAN)!**_
 
 [<img src="https://github.com/cszn/BSRGAN/blob/93577f4e8eaaa7c697609d4bb82508a0359e2f66/figs/v1.png" width="200px"/>](https://imgsli.com/NDgzMjU) [<img src="https://github.com/cszn/BSRGAN/blob/93577f4e8eaaa7c697609d4bb82508a0359e2f66/figs/v2.png" width="200px"/>](https://imgsli.com/NDgyNzk) 
