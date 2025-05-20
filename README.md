@@ -3,7 +3,7 @@
 _**[[Homepage](https://cszn.github.io/)] [[Google Scholar](https://scholar.google.com.hk/citations?user=0RycFIIAAAAJ)]  [[ResearchGate](https://www.researchgate.net/profile/Kai-Zhang-44)]  [[知乎](https://www.zhihu.com/people/cskaizhang)]**_
 
 
-_**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, Switzerland.**_
+_**I am currently an Associate Professor of the School of Intelligence Science and Technology at Nanjing University.**_
 
 
 <!--
